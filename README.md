@@ -1,6 +1,6 @@
 ## Hi, I'm David Burke 👋
 
-Owner and founder of [After Hours Engineering, LLC](www.aheng.io).
+Owner and founder of [After Hours Engineering, LLC](https://aheng.io/).
 
 Embedded Firmware Engineer with 25 years of experience specifying, architecting, coding, and testing embedded firmware for the automotive, military, manufacturing, and consumer industries. My experience includes all aspects of the process surrounding both firmware and hardware development, all while participating in and leading engineering teams toward successful production designs.
 
