@@ -17,6 +17,7 @@ C, C++, Java, BASH, Python, Git, Zephyr RTOS, Linux, FreeRTOS, Agile, UML, By-Wi
 ## Achievements
 
 <!--START_SECTION:badges-->
+[![Zephyr Technical Contributor](https://images.credly.com/size/110x110/images/a77b7f85-70b0-42ab-9519-67ee509fbc0c/image.png)](http://www.credly.com/badges/a36e2818-42da-49f6-984a-b4752bd120c5 "Zephyr Technical Contributor")
 <!--END_SECTION:badges-->
 
 
